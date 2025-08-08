@@ -13,10 +13,7 @@ This is a simple web application that allows users to perform basic **CRUD (Crea
 
 ## 🛠️ Technologies Used
 
-- Frontend: HTML, CSS, JavaScript (or React/Bootstrap – if applicable)
-- Backend: Node.js / Express / Django / Flask (customize based on your project)
-- Database: MongoDB / MySQL / PostgreSQL / SQLite (customize accordingly)
-
-## 📂 Project Structure (Example)
-
+- Frontend: HTML, CSS, JavaScript, React 
+- Backend: Node.js & Express 
+- Database: MongoDB & MySQL  
 
