@@ -1,4 +1,4 @@
-# Doctor Appointment CRUD App
+# Doctor Appointment CRUD Operation
 
 This is a simple web application that allows users to perform basic **CRUD (Create, Read, Update, Delete)** operations for managing doctor appointments. It is built as a demo project to understand and implement full-stack functionality.
 
